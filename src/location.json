@@ -1,0 +1,30 @@
+{
+	"chargers": [
+		{
+			"name": "EXPRESSWAY CHARGING - MARIM ENTERPRICES",
+			"id": "a001",
+			"address": "Connaught place, delhi",
+			"distance": "2.1 km",
+			"distance_metrics": "metres",
+			"latitude": 22.4532122,
+			"longitude": 77.4545322,
+			"connector_types": [
+				{
+					"level": "Level 1 DC",
+					"quantity": "2",
+					"chargingCapacity" :"15 kw Fast Charging"
+				},
+				{
+					"level": "Level 2 DC",
+					"quantity": "1",
+					"chargingCapacity" :"50 kw Fast Charging"
+				},
+				{
+					"level": " Normal DC",
+					"quantity": "1",
+					"chargingCapacity" :" 3 kw Charging"
+				}
+			]
+		}
+	]
+}
